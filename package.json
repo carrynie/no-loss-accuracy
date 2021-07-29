@@ -1,0 +1,16 @@
+{
+  "name": "no-loss-accuracy",
+  "version": "1.0.0",
+  "description": "Add, subtract, multiply and divide without loss of accuracy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "precision",
+    "accuracy",
+    "calculate"
+  ],
+  "author": "carrynie",
+  "license": "ISC"
+}
