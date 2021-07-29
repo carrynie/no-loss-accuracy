@@ -1,7 +1,7 @@
 {
   "name": "no-loss-accuracy",
   "repository": "https://github.com/carrynie/no-loss-accuracy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add, subtract, multiply and divide without loss of accuracy",
   "main": "index.js",
   

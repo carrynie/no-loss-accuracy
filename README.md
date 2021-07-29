@@ -10,13 +10,13 @@ Add, subtract, multiply and divide without loss of accuracy
 ### Import
 
 ``` javascript
- import { add, sub, mult, div } from "no-loass-accuracy"
+ import { add, sub, mult, div } from "no-loss-accuracy"
 ```
 
 ### Demo
 
 ``` javascript
- import { add, sub, mult, div } from "no-loass-accuracy"
+ import { add, sub, mult, div } from "no-loss-accuracy"
 
  const result = add(0.1, 0.2) //0.3
 

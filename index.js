@@ -1,6 +1,6 @@
 /*
  * @LastEditors: carrynie
- * @LastEditTime: 2021-07-29 16:02:59
+ * @LastEditTime: 2021-07-29 16:17:07
  * @FilePath: \no-loss-accuracy\index.js
  * @Description: Add, subtract, multiply and divide without loss of accuracy
  */
@@ -55,8 +55,6 @@ export const mult = (...args) => {
     const sum = args.map(item => item*(10**digits)).reduce((a, b) => {
         return a * b
     })
-
-    console.log('digits:'+digits, 'length:'+ args.length)
 
     return sum/(10**(digits*args.length))
 }
